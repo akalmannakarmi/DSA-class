@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-typedef struct  rational{
+typedef struct rational{
     int num;
     int denom;
 } rational;
